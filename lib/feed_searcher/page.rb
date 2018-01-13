@@ -4,6 +4,7 @@ class FeedSearcher
       atom
       rdf
       rss
+      xml
     ]
 
     MIME_TYPES = %w[
